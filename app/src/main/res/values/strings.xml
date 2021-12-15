@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Kotlin1_Homework1</string>
+    <string name="et_hint">Введите текст</string>
+    <string name="btn_text">Enter</string>
+    <string name="et_empty">Пожалуйста введите текст</string>
+</resources>
